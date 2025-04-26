@@ -1,0 +1,839 @@
+25-04-03 15:53:10ERRORHigh memory usage detected
+25-04-03 15:53:12CRITICALHigh memory usage detected
+25-04-03 15:53:14INFOServer crash detected! restarting...
+25-04-03 15:53:16ERRORUser loged out:user456
+25-04-03 15:53:18CRITICALDatabase connection failed:timeout
+25-04-03 15:53:20ERRORUser logged in:user123
+25-04-03 15:53:22ERRORDatabase connection failed:timeout
+25-04-03 15:53:24INFOServer crash detected! restarting...
+25-04-03 15:53:26CRITICALUser logged in:user123
+25-04-03 15:53:28WARNINGDatabase connection failed:timeout
+25-04-03 15:53:30WARNINGServer crash detected! restarting...
+25-04-03 15:53:32ERRORHigh memory usage detected
+25-04-03 15:53:34INFOServer crash detected! restarting...
+25-04-03 15:53:36WARNINGUser loged out:user456
+25-04-03 15:53:38CRITICALFile uploaded:report.pdf
+25-04-03 15:53:40ERRORUser loged out:user456
+25-04-03 15:53:42WARNINGServer crash detected! restarting...
+25-04-03 15:53:44INFOFile uploaded:report.pdf
+25-04-03 15:53:46CRITICALUser logged in:user123
+25-04-03 15:53:48INFOUser loged out:user456
+25-04-03 15:53:50CRITICALServer crash detected! restarting...
+25-04-03 15:53:52ERRORServer crash detected! restarting...
+25-04-03 15:53:54WARNINGHigh memory usage detected
+25-04-03 15:53:56ERRORUser loged out:user456
+25-04-03 15:53:58CRITICALServer crash detected! restarting...
+25-04-03 15:54:00WARNINGUser loged out:user456
+25-04-03 15:54:02CRITICALDatabase connection failed:timeout
+25-04-03 15:54:04CRITICALHigh memory usage detected
+25-04-03 15:54:06INFOUser logged in:user123
+25-04-03 15:54:08WARNINGFile uploaded:report.pdf
+25-04-03 15:54:10WARNINGServer crash detected! restarting...
+25-04-03 15:54:12WARNINGHigh memory usage detected
+25-04-03 15:54:14INFOFile uploaded:report.pdf
+25-04-03 15:54:16CRITICALUser loged out:user456
+25-04-03 15:54:18ERRORDatabase connection failed:timeout
+25-04-03 15:54:20ERRORUser loged out:user456
+25-04-03 15:54:22CRITICALHigh memory usage detected
+25-04-03 15:54:24ERRORDatabase connection failed:timeout
+25-04-03 15:54:26CRITICALServer crash detected! restarting...
+25-04-03 15:54:28INFOUser logged in:user123
+25-04-03 15:54:30INFOUser loged out:user456
+25-04-03 15:54:32INFOUser loged out:user456
+25-04-03 15:54:34CRITICALUser logged in:user123
+25-04-03 15:54:36ERRORDatabase connection failed:timeout
+25-04-03 15:54:38INFOUser loged out:user456
+25-04-03 15:54:40CRITICALHigh memory usage detected
+25-04-03 15:54:42CRITICALServer crash detected! restarting...
+25-04-03 15:54:44WARNINGFile uploaded:report.pdf
+25-04-03 15:54:46ERRORDatabase connection failed:timeout
+25-04-03 15:54:48INFOUser loged out:user456
+25-04-03 15:54:50INFOServer crash detected! restarting...
+25-04-03 15:54:52WARNINGHigh memory usage detected
+25-04-03 15:54:54ERRORUser logged in:user123
+25-04-03 15:54:56WARNINGFile uploaded:report.pdf
+25-04-03 15:54:58ERRORUser logged in:user123
+25-04-03 15:55:00CRITICALUser logged in:user123
+25-04-03 15:55:02ERRORUser loged out:user456
+25-04-03 15:55:04CRITICALUser logged in:user123
+25-04-03 15:55:06CRITICALUser loged out:user456
+25-04-03 15:55:08INFOUser logged in:user123
+25-04-03 15:55:10INFOHigh memory usage detected
+25-04-03 15:55:12CRITICALUser loged out:user456
+25-04-03 15:55:14INFOUser loged out:user456
+25-04-03 15:55:16CRITICALFile uploaded:report.pdf
+25-04-03 15:58:21ERRORUser logged in:user123
+25-04-03 15:58:23INFOServer crash detected! restarting...
+25-04-03 15:58:25INFOUser logged in:user123
+25-04-03 15:58:27INFOHigh memory usage detected
+25-04-03 15:58:29ERRORUser loged out:user456
+25-04-03 15:58:31CRITICALServer crash detected! restarting...
+25-04-03 15:58:33ERRORFile uploaded:report.pdf
+25-04-03 15:58:35ERRORDatabase connection failed:timeout
+25-04-03 15:58:37INFOHigh memory usage detected
+25-04-03 15:58:39ERRORHigh memory usage detected
+25-04-03 15:58:41ERRORHigh memory usage detected
+25-04-03 15:58:43ERRORServer crash detected! restarting...
+25-04-03 15:58:45WARNINGUser loged out:user456
+25-04-03 15:58:47CRITICALDatabase connection failed:timeout
+25-04-03 15:58:49INFOUser loged out:user456
+25-04-03 15:58:51ERRORUser logged in:user123
+25-04-03 15:58:53CRITICALHigh memory usage detected
+25-04-03 15:58:55CRITICALUser loged out:user456
+25-04-03 15:58:57ERRORDatabase connection failed:timeout
+25-04-03 15:58:59WARNINGUser logged in:user123
+25-04-03 15:59:01CRITICALUser loged out:user456
+25-04-03 15:59:03CRITICALHigh memory usage detected
+25-04-03 15:59:05ERRORUser loged out:user456
+25-04-03 15:59:07INFOHigh memory usage detected
+25-04-03 15:59:09CRITICALFile uploaded:report.pdf
+25-04-03 15:59:11ERRORServer crash detected! restarting...
+25-04-03 15:59:13INFOHigh memory usage detected
+25-04-03 15:59:15ERRORHigh memory usage detected
+25-04-03 15:59:17WARNINGDatabase connection failed:timeout
+25-04-03 15:59:19INFOUser logged in:user123
+25-04-03 15:59:21ERRORFile uploaded:report.pdf
+25-04-03 15:59:23WARNINGDatabase connection failed:timeout
+25-04-03 15:59:25ERRORDatabase connection failed:timeout
+25-04-03 15:59:27CRITICALDatabase connection failed:timeout
+25-04-03 15:59:29ERRORServer crash detected! restarting...
+25-04-03 15:59:31INFOUser loged out:user456
+25-04-03 15:59:33CRITICALDatabase connection failed:timeout
+25-04-03 15:59:35INFOFile uploaded:report.pdf
+25-04-03 15:59:37CRITICALHigh memory usage detected
+25-04-03 15:59:39CRITICALHigh memory usage detected
+25-04-03 15:59:41CRITICALFile uploaded:report.pdf
+25-04-03 15:59:43CRITICALUser logged in:user123
+25-04-03 15:59:45ERRORUser loged out:user456
+25-04-03 15:59:47WARNINGHigh memory usage detected
+25-04-03 15:59:49ERRORUser logged in:user123
+25-04-03 15:59:51CRITICALDatabase connection failed:timeout
+25-04-03 15:59:53INFOUser logged in:user123
+25-04-03 15:59:55INFODatabase connection failed:timeout
+25-04-03 15:59:57INFOHigh memory usage detected
+25-04-03 15:59:59ERRORFile uploaded:report.pdf
+25-04-03 16:00:01CRITICALDatabase connection failed:timeout
+25-04-03 16:00:03CRITICALHigh memory usage detected
+25-04-03 16:00:05INFOFile uploaded:report.pdf
+25-04-03 16:00:07WARNINGUser loged out:user456
+25-04-03 16:00:09ERRORHigh memory usage detected
+25-04-03 16:00:11INFOFile uploaded:report.pdf
+25-04-03 16:00:13INFOUser logged in:user123
+25-04-03 16:00:15WARNINGHigh memory usage detected
+25-04-03 16:00:17INFOUser logged in:user123
+25-04-03 16:00:19CRITICALUser logged in:user123
+25-04-03 16:00:21WARNINGHigh memory usage detected
+25-04-03 16:00:23INFOServer crash detected! restarting...
+25-04-03 16:00:25ERRORUser loged out:user456
+25-04-03 16:00:27WARNINGHigh memory usage detected
+25-04-03 16:00:29CRITICALUser logged in:user123
+25-04-03 16:00:31INFOUser logged in:user123
+25-04-03 16:00:33INFOHigh memory usage detected
+25-04-03 16:00:35WARNINGServer crash detected! restarting...
+25-04-03 16:00:37ERRORFile uploaded:report.pdf
+25-04-03 16:00:39CRITICALUser logged in:user123
+25-04-03 16:00:41INFOServer crash detected! restarting...
+25-04-03 16:00:43ERRORFile uploaded:report.pdf
+25-04-03 16:00:45WARNINGDatabase connection failed:timeout
+25-04-03 16:00:47WARNINGServer crash detected! restarting...
+25-04-03 16:00:49CRITICALFile uploaded:report.pdf
+25-04-03 16:00:51WARNINGFile uploaded:report.pdf
+25-04-03 16:00:53WARNINGUser logged in:user123
+25-04-03 16:00:55WARNINGFile uploaded:report.pdf
+25-04-03 16:00:57ERRORDatabase connection failed:timeout
+25-04-03 16:00:59CRITICALDatabase connection failed:timeout
+25-04-03 16:01:01CRITICALDatabase connection failed:timeout
+25-04-03 16:01:03WARNINGFile uploaded:report.pdf
+25-04-03 16:01:05INFOUser logged in:user123
+25-04-03 16:01:07CRITICALFile uploaded:report.pdf
+25-04-03 16:01:09ERRORUser logged in:user123
+25-04-03 16:01:11INFOUser logged in:user123
+25-04-03 16:01:13ERRORHigh memory usage detected
+25-04-03 16:01:15WARNINGServer crash detected! restarting...
+25-04-03 16:01:17ERRORFile uploaded:report.pdf
+25-04-03 16:01:19CRITICALServer crash detected! restarting...
+25-04-03 16:01:21ERRORHigh memory usage detected
+25-04-03 16:01:23WARNINGDatabase connection failed:timeout
+25-04-03 16:01:25INFOUser logged in:user123
+25-04-03 16:01:27CRITICALFile uploaded:report.pdf
+25-04-03 16:01:29ERRORDatabase connection failed:timeout
+25-04-03 16:01:31CRITICALFile uploaded:report.pdf
+25-04-03 16:01:33ERRORDatabase connection failed:timeout
+25-04-03 16:01:35WARNINGDatabase connection failed:timeout
+25-04-03 16:01:37WARNINGFile uploaded:report.pdf
+25-04-03 16:01:39CRITICALFile uploaded:report.pdf
+25-04-03 16:01:41INFOUser loged out:user456
+25-04-03 16:01:43CRITICALHigh memory usage detected
+25-04-03 16:01:45CRITICALFile uploaded:report.pdf
+25-04-03 16:01:47ERRORHigh memory usage detected
+25-04-03 16:01:49INFOFile uploaded:report.pdf
+25-04-03 16:01:51INFOUser loged out:user456
+25-04-03 16:01:53WARNINGHigh memory usage detected
+25-04-03 16:01:55ERRORUser loged out:user456
+25-04-03 16:01:57CRITICALHigh memory usage detected
+25-04-03 16:01:59ERRORUser logged in:user123
+25-04-03 16:02:01CRITICALDatabase connection failed:timeout
+25-04-03 16:02:03CRITICALDatabase connection failed:timeout
+25-04-03 16:02:05WARNINGServer crash detected! restarting...
+25-04-03 16:02:07INFOFile uploaded:report.pdf
+25-04-03 16:02:09ERRORHigh memory usage detected
+25-04-03 16:02:11ERRORFile uploaded:report.pdf
+25-04-03 16:02:13WARNINGUser loged out:user456
+25-04-03 16:02:15ERRORUser loged out:user456
+25-04-03 16:02:17INFOHigh memory usage detected
+25-04-03 16:02:19INFOUser logged in:user123
+25-04-03 16:02:21INFOUser loged out:user456
+25-04-03 16:02:23INFOUser logged in:user123
+25-04-03 16:02:25ERRORServer crash detected! restarting...
+25-04-03 16:02:27INFOUser logged in:user123
+25-04-03 16:02:29WARNINGDatabase connection failed:timeout
+25-04-03 16:02:31WARNINGDatabase connection failed:timeout
+25-04-03 16:02:33INFOFile uploaded:report.pdf
+25-04-03 16:02:35CRITICALServer crash detected! restarting...
+25-04-03 16:02:37ERRORDatabase connection failed:timeout
+25-04-03 16:02:39WARNINGDatabase connection failed:timeout
+25-04-03 16:02:41WARNINGDatabase connection failed:timeout
+25-04-03 16:02:43CRITICALFile uploaded:report.pdf
+25-04-03 16:02:45ERRORUser loged out:user456
+25-04-03 16:02:47INFOServer crash detected! restarting...
+25-04-03 16:02:49WARNINGUser logged in:user123
+25-04-03 16:02:51WARNINGDatabase connection failed:timeout
+25-04-03 16:02:53ERRORUser logged in:user123
+25-04-03 16:02:55INFOServer crash detected! restarting...
+25-04-03 16:02:57ERRORServer crash detected! restarting...
+25-04-03 16:02:59CRITICALHigh memory usage detected
+25-04-03 16:03:01INFOFile uploaded:report.pdf
+25-04-03 16:03:03ERRORHigh memory usage detected
+25-04-03 16:03:05CRITICALServer crash detected! restarting...
+25-04-03 16:03:07WARNINGFile uploaded:report.pdf
+25-04-03 16:03:09WARNINGUser loged out:user456
+25-04-03 16:03:11WARNINGServer crash detected! restarting...
+25-04-03 16:03:13WARNINGFile uploaded:report.pdf
+25-04-03 16:03:15CRITICALDatabase connection failed:timeout
+25-04-03 16:03:17WARNINGServer crash detected! restarting...
+25-04-03 16:03:19INFOUser loged out:user456
+25-04-03 16:03:21WARNINGFile uploaded:report.pdf
+25-04-03 16:03:23WARNINGServer crash detected! restarting...
+25-04-03 16:03:25ERRORFile uploaded:report.pdf
+25-04-03 16:03:27INFOServer crash detected! restarting...
+25-04-03 16:03:29INFOHigh memory usage detected
+25-04-03 16:03:31CRITICALServer crash detected! restarting...
+25-04-03 16:03:33WARNINGFile uploaded:report.pdf
+25-04-03 16:03:35ERRORUser loged out:user456
+25-04-03 16:03:37ERRORDatabase connection failed:timeout
+25-04-03 16:03:39CRITICALHigh memory usage detected
+25-04-03 16:03:41INFOServer crash detected! restarting...
+25-04-03 16:03:43WARNINGUser loged out:user456
+25-04-03 16:03:45ERRORUser loged out:user456
+25-04-03 16:03:47INFOServer crash detected! restarting...
+25-04-03 16:03:49WARNINGHigh memory usage detected
+25-04-03 16:03:51INFOHigh memory usage detected
+25-04-03 16:03:53ERRORFile uploaded:report.pdf
+25-04-03 16:03:55ERRORHigh memory usage detected
+25-04-03 16:03:57INFOFile uploaded:report.pdf
+25-04-03 16:03:59CRITICALServer crash detected! restarting...
+25-04-03 16:04:01WARNINGDatabase connection failed:timeout
+25-04-03 16:04:03ERRORServer crash detected! restarting...
+25-04-03 16:04:05ERRORUser logged in:user123
+25-04-03 16:04:07ERRORFile uploaded:report.pdf
+25-04-03 16:04:09INFOServer crash detected! restarting...
+25-04-03 16:04:11CRITICALUser loged out:user456
+25-04-03 16:04:13ERRORUser loged out:user456
+25-04-03 16:04:15WARNINGDatabase connection failed:timeout
+25-04-03 16:04:17INFODatabase connection failed:timeout
+25-04-03 16:04:19WARNINGDatabase connection failed:timeout
+25-04-03 16:04:21INFOFile uploaded:report.pdf
+25-04-03 16:04:23INFOServer crash detected! restarting...
+25-04-03 16:04:25ERRORServer crash detected! restarting...
+25-04-03 16:04:27WARNINGUser loged out:user456
+25-04-03 16:04:29WARNINGDatabase connection failed:timeout
+25-04-03 16:04:31ERRORUser loged out:user456
+25-04-03 16:04:33WARNINGUser logged in:user123
+25-04-03 16:04:35WARNINGFile uploaded:report.pdf
+25-04-03 16:04:37INFOHigh memory usage detected
+25-04-03 16:04:39ERRORFile uploaded:report.pdf
+25-04-03 16:04:41WARNINGUser loged out:user456
+25-04-03 16:04:43CRITICALDatabase connection failed:timeout
+25-04-03 16:04:45CRITICALDatabase connection failed:timeout
+25-04-03 16:04:47ERRORDatabase connection failed:timeout
+25-04-03 16:04:49ERRORServer crash detected! restarting...
+25-04-03 16:04:51ERRORServer crash detected! restarting...
+25-04-03 16:04:53WARNINGFile uploaded:report.pdf
+25-04-03 16:04:55INFOServer crash detected! restarting...
+25-04-03 16:04:57WARNINGServer crash detected! restarting...
+25-04-03 16:04:59WARNINGServer crash detected! restarting...
+25-04-03 16:05:01ERRORDatabase connection failed:timeout
+25-04-03 16:05:03WARNINGFile uploaded:report.pdf
+25-04-03 16:05:05ERRORUser loged out:user456
+25-04-03 16:05:07CRITICALUser logged in:user123
+25-04-03 16:05:09CRITICALServer crash detected! restarting...
+25-04-03 16:05:11INFODatabase connection failed:timeout
+25-04-03 16:05:13ERRORUser loged out:user456
+25-04-03 16:05:15CRITICALUser loged out:user456
+25-04-03 16:05:17WARNINGDatabase connection failed:timeout
+25-04-03 16:05:19CRITICALFile uploaded:report.pdf
+25-04-03 16:05:21ERRORUser loged out:user456
+25-04-03 16:05:23WARNINGDatabase connection failed:timeout
+25-04-03 16:05:25WARNINGUser logged in:user123
+25-04-03 16:05:27WARNINGServer crash detected! restarting...
+25-04-03 16:05:29ERRORDatabase connection failed:timeout
+25-04-03 16:05:31WARNINGDatabase connection failed:timeout
+25-04-03 16:05:33INFOFile uploaded:report.pdf
+25-04-03 16:05:35INFOFile uploaded:report.pdf
+25-04-03 16:05:37WARNINGDatabase connection failed:timeout
+25-04-03 16:05:39CRITICALUser loged out:user456
+25-04-03 16:05:41INFOUser logged in:user123
+25-04-03 16:05:43WARNINGServer crash detected! restarting...
+25-04-03 16:05:45ERRORServer crash detected! restarting...
+25-04-03 16:05:47ERRORFile uploaded:report.pdf
+25-04-03 16:05:49INFOUser loged out:user456
+25-04-03 16:05:51WARNINGHigh memory usage detected
+25-04-03 16:05:53INFOUser logged in:user123
+25-04-03 16:05:55INFOServer crash detected! restarting...
+25-04-03 16:05:57CRITICALUser logged in:user123
+25-04-03 16:05:59CRITICALServer crash detected! restarting...
+25-04-03 16:06:01ERRORHigh memory usage detected
+25-04-03 16:06:03WARNINGUser loged out:user456
+25-04-03 16:06:05ERRORUser loged out:user456
+25-04-03 16:06:07INFODatabase connection failed:timeout
+25-04-03 16:06:09WARNINGFile uploaded:report.pdf
+25-04-03 16:06:11INFOUser logged in:user123
+25-04-03 16:06:13ERRORUser logged in:user123
+25-04-03 16:06:15CRITICALFile uploaded:report.pdf
+25-04-03 16:06:17INFOHigh memory usage detected
+25-04-03 16:06:19CRITICALHigh memory usage detected
+25-04-03 16:06:21CRITICALUser loged out:user456
+25-04-03 16:06:23CRITICALFile uploaded:report.pdf
+25-04-03 16:06:25CRITICALHigh memory usage detected
+25-04-03 16:06:27INFOUser loged out:user456
+25-04-03 16:06:29CRITICALDatabase connection failed:timeout
+25-04-03 16:06:31ERRORServer crash detected! restarting...
+25-04-03 16:06:33INFODatabase connection failed:timeout
+25-04-03 16:06:35CRITICALServer crash detected! restarting...
+25-04-03 16:06:37ERRORServer crash detected! restarting...
+25-04-03 16:06:39CRITICALHigh memory usage detected
+25-04-03 16:06:41WARNINGHigh memory usage detected
+25-04-03 16:06:43WARNINGHigh memory usage detected
+25-04-03 16:06:45WARNINGHigh memory usage detected
+25-04-03 16:06:47INFOServer crash detected! restarting...
+25-04-03 16:06:49INFOServer crash detected! restarting...
+25-04-03 16:06:51INFOFile uploaded:report.pdf
+25-04-03 16:06:53ERRORServer crash detected! restarting...
+25-04-03 16:06:55CRITICALUser loged out:user456
+25-04-03 16:06:57WARNINGServer crash detected! restarting...
+25-04-03 16:06:59INFOHigh memory usage detected
+25-04-03 16:07:01CRITICALUser logged in:user123
+25-04-03 16:07:03INFOFile uploaded:report.pdf
+25-04-03 16:07:05ERRORUser loged out:user456
+25-04-03 16:07:07WARNINGHigh memory usage detected
+25-04-03 16:07:09CRITICALUser loged out:user456
+25-04-03 16:07:11CRITICALServer crash detected! restarting...
+25-04-03 16:07:13CRITICALServer crash detected! restarting...
+25-04-03 16:07:15CRITICALUser loged out:user456
+25-04-03 16:07:17ERRORServer crash detected! restarting...
+25-04-03 16:07:19ERRORHigh memory usage detected
+25-04-03 16:07:21ERRORHigh memory usage detected
+25-04-03 16:07:23CRITICALFile uploaded:report.pdf
+25-04-03 16:07:25CRITICALUser logged in:user123
+25-04-03 16:07:27INFOHigh memory usage detected
+25-04-03 16:07:29ERRORServer crash detected! restarting...
+25-04-03 16:07:31INFOServer crash detected! restarting...
+25-04-03 16:07:33CRITICALHigh memory usage detected
+25-04-03 16:07:35INFOHigh memory usage detected
+25-04-03 16:07:37INFOHigh memory usage detected
+25-04-03 16:07:39WARNINGFile uploaded:report.pdf
+25-04-03 16:07:41ERRORServer crash detected! restarting...
+25-04-03 16:07:43CRITICALServer crash detected! restarting...
+25-04-03 16:07:45CRITICALUser logged in:user123
+25-04-03 16:07:47INFOHigh memory usage detected
+25-04-03 16:07:49ERRORHigh memory usage detected
+25-04-03 16:07:51ERRORDatabase connection failed:timeout
+25-04-03 16:07:53ERRORHigh memory usage detected
+25-04-03 16:07:55WARNINGUser logged in:user123
+25-04-03 16:07:57INFOUser loged out:user456
+25-04-03 16:07:59CRITICALHigh memory usage detected
+25-04-03 16:08:01INFOHigh memory usage detected
+25-04-03 16:08:03WARNINGUser logged in:user123
+25-04-03 16:08:05WARNINGFile uploaded:report.pdf
+25-04-03 16:08:07INFOUser loged out:user456
+25-04-03 16:08:09INFOUser loged out:user456
+25-04-03 16:08:11INFOServer crash detected! restarting...
+25-04-03 16:08:13ERRORFile uploaded:report.pdf
+25-04-03 16:08:15ERRORDatabase connection failed:timeout
+25-04-03 16:08:17ERRORServer crash detected! restarting...
+25-04-03 16:08:19INFOHigh memory usage detected
+25-04-03 16:08:21ERRORHigh memory usage detected
+25-04-03 16:08:23CRITICALUser loged out:user456
+25-04-03 16:08:25WARNINGHigh memory usage detected
+25-04-03 16:08:27INFOServer crash detected! restarting...
+25-04-03 16:08:29ERRORServer crash detected! restarting...
+25-04-03 16:08:31WARNINGHigh memory usage detected
+25-04-03 16:08:33CRITICALUser logged in:user123
+25-04-03 16:08:35CRITICALUser logged in:user123
+25-04-03 16:08:37INFOServer crash detected! restarting...
+25-04-03 16:08:39WARNINGServer crash detected! restarting...
+25-04-03 16:08:41INFODatabase connection failed:timeout
+25-04-03 16:08:43INFOServer crash detected! restarting...
+25-04-03 16:08:45CRITICALHigh memory usage detected
+25-04-03 16:08:47CRITICALDatabase connection failed:timeout
+25-04-03 16:08:49ERRORDatabase connection failed:timeout
+25-04-03 16:08:51WARNINGHigh memory usage detected
+25-04-03 16:08:53ERRORHigh memory usage detected
+25-04-03 16:08:55CRITICALUser loged out:user456
+25-04-03 16:08:57ERRORDatabase connection failed:timeout
+25-04-03 16:08:59CRITICALDatabase connection failed:timeout
+25-04-03 16:09:01WARNINGFile uploaded:report.pdf
+25-04-03 16:09:03WARNINGHigh memory usage detected
+25-04-03 16:09:05ERRORUser logged in:user123
+25-04-03 16:09:07WARNINGFile uploaded:report.pdf
+25-04-03 16:09:09WARNINGUser loged out:user456
+25-04-03 16:09:11CRITICALDatabase connection failed:timeout
+25-04-03 16:09:13INFOFile uploaded:report.pdf
+25-04-03 16:09:15ERRORDatabase connection failed:timeout
+25-04-03 16:09:17CRITICALUser loged out:user456
+25-04-03 16:09:19WARNINGUser loged out:user456
+25-04-03 16:09:21INFOFile uploaded:report.pdf
+25-04-03 16:09:23ERRORUser logged in:user123
+25-04-03 16:09:25WARNINGUser loged out:user456
+25-04-03 16:09:27ERRORFile uploaded:report.pdf
+25-04-03 16:09:29WARNINGHigh memory usage detected
+25-04-03 16:09:31WARNINGDatabase connection failed:timeout
+25-04-03 16:09:33INFOServer crash detected! restarting...
+25-04-03 16:09:35WARNINGUser loged out:user456
+25-04-03 16:09:37CRITICALUser logged in:user123
+25-04-03 16:09:39CRITICALUser logged in:user123
+25-04-03 16:09:41INFOHigh memory usage detected
+25-04-03 16:09:43CRITICALUser loged out:user456
+25-04-03 16:09:45CRITICALServer crash detected! restarting...
+25-04-03 16:09:47CRITICALUser logged in:user123
+25-04-03 16:09:49WARNINGUser loged out:user456
+25-04-03 16:09:51ERRORServer crash detected! restarting...
+25-04-03 16:09:53INFODatabase connection failed:timeout
+25-04-03 16:09:55WARNINGServer crash detected! restarting...
+25-04-03 16:09:57WARNINGDatabase connection failed:timeout
+25-04-03 16:09:59INFOUser loged out:user456
+25-04-03 16:10:01WARNINGUser loged out:user456
+25-04-03 16:10:03INFOHigh memory usage detected
+25-04-03 16:10:05INFODatabase connection failed:timeout
+25-04-03 16:10:07WARNINGUser logged in:user123
+25-04-03 16:10:09INFOServer crash detected! restarting...
+25-04-03 16:10:11INFOHigh memory usage detected
+25-04-03 16:10:13CRITICALHigh memory usage detected
+25-04-03 16:10:15INFOUser loged out:user456
+25-04-03 16:10:17ERRORUser logged in:user123
+25-04-03 16:10:19WARNINGFile uploaded:report.pdf
+25-04-03 16:10:21INFOUser logged in:user123
+25-04-03 16:10:23ERRORUser logged in:user123
+25-04-03 16:10:25ERRORHigh memory usage detected
+25-04-03 16:10:27ERRORHigh memory usage detected
+25-04-03 16:10:29CRITICALServer crash detected! restarting...
+25-04-03 16:10:31CRITICALHigh memory usage detected
+25-04-03 16:10:33CRITICALDatabase connection failed:timeout
+25-04-03 16:10:35INFOUser loged out:user456
+25-04-03 16:10:37INFOHigh memory usage detected
+25-04-03 16:10:39CRITICALUser loged out:user456
+25-04-03 16:10:41INFOUser logged in:user123
+25-04-03 16:10:43CRITICALFile uploaded:report.pdf
+25-04-03 16:10:45CRITICALUser logged in:user123
+25-04-03 16:10:47ERRORUser logged in:user123
+25-04-03 16:10:49CRITICALUser logged in:user123
+25-04-03 16:10:51INFODatabase connection failed:timeout
+25-04-03 16:10:53WARNINGHigh memory usage detected
+25-04-03 16:10:55CRITICALFile uploaded:report.pdf
+25-04-03 16:10:57ERRORFile uploaded:report.pdf
+25-04-03 16:10:59CRITICALUser loged out:user456
+25-04-03 16:11:01ERRORUser logged in:user123
+25-04-03 16:11:03WARNINGHigh memory usage detected
+25-04-03 16:11:05WARNINGUser logged in:user123
+25-04-03 16:11:07CRITICALUser logged in:user123
+25-04-03 16:11:09CRITICALDatabase connection failed:timeout
+25-04-03 16:11:11ERRORDatabase connection failed:timeout
+25-04-03 16:11:13INFOHigh memory usage detected
+25-04-03 16:11:15WARNINGHigh memory usage detected
+25-04-03 16:11:17WARNINGHigh memory usage detected
+25-04-03 16:11:19WARNINGUser logged in:user123
+25-04-03 16:11:21CRITICALDatabase connection failed:timeout
+25-04-03 16:11:23WARNINGDatabase connection failed:timeout
+25-04-03 16:11:25INFOUser loged out:user456
+25-04-03 16:11:27INFOServer crash detected! restarting...
+25-04-03 16:11:29CRITICALUser loged out:user456
+25-04-03 16:11:31WARNINGDatabase connection failed:timeout
+25-04-03 16:11:33INFOUser loged out:user456
+25-04-03 16:11:35INFOFile uploaded:report.pdf
+25-04-03 16:11:37WARNINGFile uploaded:report.pdf
+25-04-03 16:11:39INFOUser loged out:user456
+25-04-03 16:11:41CRITICALUser logged in:user123
+25-04-03 16:11:43CRITICALServer crash detected! restarting...
+25-04-03 16:11:45INFODatabase connection failed:timeout
+25-04-03 16:11:47CRITICALHigh memory usage detected
+25-04-03 16:11:49CRITICALServer crash detected! restarting...
+25-04-03 16:11:51CRITICALUser logged in:user123
+25-04-03 16:11:53CRITICALDatabase connection failed:timeout
+25-04-03 16:11:55ERRORServer crash detected! restarting...
+25-04-03 16:11:57INFODatabase connection failed:timeout
+25-04-03 16:11:59WARNINGFile uploaded:report.pdf
+25-04-03 16:12:01CRITICALHigh memory usage detected
+25-04-03 16:12:03WARNINGServer crash detected! restarting...
+25-04-03 16:12:05WARNINGUser loged out:user456
+25-04-03 16:12:07INFODatabase connection failed:timeout
+25-04-03 16:12:09CRITICALServer crash detected! restarting...
+25-04-03 16:12:11INFOUser logged in:user123
+25-04-03 16:12:13CRITICALServer crash detected! restarting...
+25-04-03 16:12:15ERRORUser loged out:user456
+25-04-03 16:12:17WARNINGDatabase connection failed:timeout
+25-04-03 16:12:19INFOUser logged in:user123
+25-04-03 16:12:21ERRORHigh memory usage detected
+25-04-03 16:12:23ERRORUser loged out:user456
+25-04-03 16:12:25CRITICALHigh memory usage detected
+25-04-03 16:12:27INFOServer crash detected! restarting...
+25-04-03 16:12:29INFODatabase connection failed:timeout
+25-04-03 16:12:31ERRORUser loged out:user456
+25-04-03 16:12:33CRITICALUser logged in:user123
+25-04-03 16:12:35CRITICALDatabase connection failed:timeout
+25-04-03 16:12:37WARNINGHigh memory usage detected
+25-04-03 16:12:39ERRORHigh memory usage detected
+25-04-03 16:12:41INFOFile uploaded:report.pdf
+25-04-03 16:12:43ERRORUser loged out:user456
+25-04-03 16:12:45CRITICALUser logged in:user123
+25-04-03 16:12:47INFOUser loged out:user456
+25-04-03 16:12:49CRITICALServer crash detected! restarting...
+25-04-03 16:12:51INFOUser logged in:user123
+25-04-03 16:12:53INFOServer crash detected! restarting...
+25-04-03 16:12:55WARNINGHigh memory usage detected
+25-04-03 16:12:57WARNINGServer crash detected! restarting...
+25-04-03 16:12:59ERRORFile uploaded:report.pdf
+25-04-03 16:13:01ERRORFile uploaded:report.pdf
+25-04-03 16:13:03WARNINGUser logged in:user123
+25-04-03 16:13:05WARNINGUser loged out:user456
+25-04-03 16:13:07CRITICALUser logged in:user123
+25-04-03 16:13:09WARNINGHigh memory usage detected
+25-04-03 16:13:11INFOUser loged out:user456
+25-04-03 16:13:13ERRORDatabase connection failed:timeout
+25-04-03 16:13:15CRITICALUser logged in:user123
+25-04-03 16:13:17INFOServer crash detected! restarting...
+25-04-03 16:13:19WARNINGUser loged out:user456
+25-04-03 16:13:21CRITICALUser loged out:user456
+25-04-03 16:13:23CRITICALHigh memory usage detected
+25-04-03 16:13:25CRITICALHigh memory usage detected
+25-04-03 16:13:27WARNINGServer crash detected! restarting...
+25-04-03 16:13:29INFOUser logged in:user123
+25-04-03 16:13:31WARNINGDatabase connection failed:timeout
+25-04-03 16:13:33CRITICALHigh memory usage detected
+25-04-03 16:13:35WARNINGHigh memory usage detected
+25-04-03 16:13:37INFOHigh memory usage detected
+25-04-03 16:13:39INFODatabase connection failed:timeout
+25-04-03 16:13:41WARNINGFile uploaded:report.pdf
+25-04-03 16:13:43WARNINGServer crash detected! restarting...
+25-04-03 16:13:45ERRORUser logged in:user123
+25-04-03 16:13:47WARNINGUser loged out:user456
+25-04-03 16:13:49ERRORUser loged out:user456
+25-04-03 16:13:51ERRORHigh memory usage detected
+25-04-03 16:13:53WARNINGUser logged in:user123
+25-04-03 16:13:55CRITICALUser logged in:user123
+25-04-03 16:13:57WARNINGServer crash detected! restarting...
+25-04-03 16:13:59CRITICALServer crash detected! restarting...
+25-04-03 16:14:01WARNINGUser loged out:user456
+25-04-03 16:14:03ERRORDatabase connection failed:timeout
+25-04-03 16:14:05WARNINGServer crash detected! restarting...
+25-04-03 16:14:07INFOFile uploaded:report.pdf
+25-04-03 16:14:09INFOUser loged out:user456
+25-04-03 16:14:11ERRORServer crash detected! restarting...
+25-04-03 16:14:13INFOHigh memory usage detected
+25-04-03 16:14:15INFODatabase connection failed:timeout
+25-04-03 16:14:17ERRORFile uploaded:report.pdf
+25-04-03 16:14:19CRITICALDatabase connection failed:timeout
+25-04-03 16:14:21CRITICALUser loged out:user456
+25-04-03 16:14:23WARNINGDatabase connection failed:timeout
+25-04-03 16:14:25WARNINGDatabase connection failed:timeout
+25-04-03 16:14:27WARNINGHigh memory usage detected
+25-04-03 16:14:29ERRORHigh memory usage detected
+25-04-03 16:14:31ERRORServer crash detected! restarting...
+25-04-03 16:14:33INFOHigh memory usage detected
+25-04-03 16:14:35ERRORServer crash detected! restarting...
+25-04-03 16:14:37WARNINGHigh memory usage detected
+25-04-03 16:14:39INFODatabase connection failed:timeout
+25-04-03 16:14:41CRITICALServer crash detected! restarting...
+25-04-03 16:14:43WARNINGFile uploaded:report.pdf
+25-04-03 16:14:45ERRORFile uploaded:report.pdf
+25-04-03 16:14:47INFOFile uploaded:report.pdf
+25-04-03 16:14:49WARNINGDatabase connection failed:timeout
+25-04-03 16:14:51CRITICALDatabase connection failed:timeout
+25-04-03 16:14:53CRITICALUser loged out:user456
+25-04-03 16:14:55CRITICALServer crash detected! restarting...
+25-04-03 16:14:57ERRORServer crash detected! restarting...
+25-04-03 16:14:59ERRORUser logged in:user123
+25-04-03 16:15:01CRITICALUser logged in:user123
+25-04-03 16:15:03ERRORUser loged out:user456
+25-04-03 16:15:05ERRORDatabase connection failed:timeout
+25-04-03 16:15:07INFOUser logged in:user123
+25-04-03 16:15:09CRITICALFile uploaded:report.pdf
+25-04-03 16:15:11ERRORUser logged in:user123
+25-04-03 16:15:13ERRORFile uploaded:report.pdf
+25-04-03 16:15:15WARNINGFile uploaded:report.pdf
+25-04-03 16:15:17INFODatabase connection failed:timeout
+25-04-03 16:15:19WARNINGDatabase connection failed:timeout
+25-04-03 16:15:21CRITICALUser logged in:user123
+25-04-03 16:15:23ERRORServer crash detected! restarting...
+25-04-03 16:15:25INFOHigh memory usage detected
+25-04-03 16:15:27CRITICALDatabase connection failed:timeout
+25-04-03 16:15:29WARNINGFile uploaded:report.pdf
+25-04-03 16:15:31WARNINGFile uploaded:report.pdf
+25-04-03 16:15:33ERRORServer crash detected! restarting...
+25-04-03 16:15:35CRITICALFile uploaded:report.pdf
+25-04-03 16:15:37INFOHigh memory usage detected
+25-04-03 16:15:39ERRORServer crash detected! restarting...
+25-04-03 16:15:41INFOUser logged in:user123
+25-04-03 16:15:43WARNINGUser logged in:user123
+25-04-03 16:15:45INFOServer crash detected! restarting...
+25-04-03 16:15:47INFOHigh memory usage detected
+25-04-03 16:15:49ERRORUser logged in:user123
+25-04-03 16:15:51ERRORServer crash detected! restarting...
+25-04-03 16:15:53WARNINGHigh memory usage detected
+25-04-03 16:15:55ERRORServer crash detected! restarting...
+25-04-03 16:15:57INFOFile uploaded:report.pdf
+25-04-03 16:15:59WARNINGUser logged in:user123
+25-04-03 16:16:01ERRORDatabase connection failed:timeout
+25-04-03 16:16:03WARNINGHigh memory usage detected
+25-04-03 16:16:05INFOUser loged out:user456
+25-04-03 16:16:07INFODatabase connection failed:timeout
+25-04-03 16:16:09ERRORUser loged out:user456
+25-04-03 16:16:11INFOHigh memory usage detected
+25-04-03 16:16:13ERRORUser loged out:user456
+25-04-03 16:16:15WARNINGFile uploaded:report.pdf
+25-04-03 16:16:17CRITICALUser loged out:user456
+25-04-03 16:16:19ERRORUser logged in:user123
+25-04-03 16:16:21WARNINGUser loged out:user456
+25-04-03 16:16:23INFOServer crash detected! restarting...
+25-04-03 16:16:25WARNINGUser logged in:user123
+25-04-03 16:16:27CRITICALUser loged out:user456
+25-04-03 16:16:29ERRORHigh memory usage detected
+25-04-03 16:16:31CRITICALUser loged out:user456
+25-04-03 16:16:33INFOHigh memory usage detected
+25-04-03 16:16:35INFOUser logged in:user123
+25-04-03 16:16:37ERRORDatabase connection failed:timeout
+25-04-03 16:16:39ERRORServer crash detected! restarting...
+25-04-03 16:16:41CRITICALServer crash detected! restarting...
+25-04-03 16:16:43CRITICALFile uploaded:report.pdf
+25-04-03 16:16:45INFOUser loged out:user456
+25-04-03 16:16:47ERRORUser loged out:user456
+25-04-03 16:16:49CRITICALUser loged out:user456
+25-04-03 16:16:51CRITICALHigh memory usage detected
+25-04-03 16:16:53CRITICALDatabase connection failed:timeout
+25-04-03 16:16:55ERRORUser loged out:user456
+25-04-03 16:16:57WARNINGServer crash detected! restarting...
+25-04-03 16:16:59WARNINGFile uploaded:report.pdf
+25-04-03 16:17:01WARNINGServer crash detected! restarting...
+25-04-03 16:17:03CRITICALHigh memory usage detected
+25-04-03 16:17:05CRITICALDatabase connection failed:timeout
+25-04-03 16:17:07CRITICALServer crash detected! restarting...
+25-04-03 16:17:09WARNINGDatabase connection failed:timeout
+25-04-03 16:17:11CRITICALUser loged out:user456
+25-04-03 16:17:13INFOUser loged out:user456
+25-04-03 16:17:15WARNINGHigh memory usage detected
+25-04-03 16:17:17WARNINGHigh memory usage detected
+25-04-03 16:17:19CRITICALUser logged in:user123
+25-04-03 16:17:21ERRORDatabase connection failed:timeout
+25-04-03 16:17:23WARNINGServer crash detected! restarting...
+25-04-03 16:17:25INFOUser loged out:user456
+25-04-03 16:17:27CRITICALServer crash detected! restarting...
+25-04-03 16:17:29INFOHigh memory usage detected
+25-04-03 16:17:31WARNINGUser loged out:user456
+25-04-03 16:17:33WARNINGFile uploaded:report.pdf
+25-04-03 16:17:35ERRORDatabase connection failed:timeout
+25-04-03 16:17:37INFOUser loged out:user456
+25-04-03 16:17:39INFODatabase connection failed:timeout
+25-04-03 16:17:41CRITICALUser loged out:user456
+25-04-03 16:17:43ERRORDatabase connection failed:timeout
+25-04-03 16:17:45WARNINGHigh memory usage detected
+25-04-03 16:17:47INFOFile uploaded:report.pdf
+25-04-03 16:17:49INFOUser loged out:user456
+25-04-03 16:17:51ERRORDatabase connection failed:timeout
+25-04-03 16:17:53CRITICALUser logged in:user123
+25-04-03 16:17:55INFOServer crash detected! restarting...
+25-04-03 16:17:57CRITICALUser logged in:user123
+25-04-03 16:17:59INFOHigh memory usage detected
+25-04-03 16:18:01WARNINGServer crash detected! restarting...
+25-04-03 16:18:03CRITICALFile uploaded:report.pdf
+25-04-03 16:18:05WARNINGHigh memory usage detected
+25-04-03 16:18:07CRITICALFile uploaded:report.pdf
+25-04-03 16:18:09ERRORDatabase connection failed:timeout
+25-04-03 16:18:11CRITICALServer crash detected! restarting...
+25-04-03 16:18:13INFOHigh memory usage detected
+25-04-03 16:18:15WARNINGFile uploaded:report.pdf
+25-04-03 16:18:17INFOFile uploaded:report.pdf
+25-04-03 16:18:19ERRORHigh memory usage detected
+25-04-03 16:18:21INFOHigh memory usage detected
+25-04-03 16:18:23INFODatabase connection failed:timeout
+25-04-03 16:18:25CRITICALUser logged in:user123
+25-04-03 16:18:27CRITICALHigh memory usage detected
+25-04-03 16:18:29INFOUser logged in:user123
+25-04-03 16:18:31CRITICALHigh memory usage detected
+25-04-03 16:18:33WARNINGUser logged in:user123
+25-04-03 16:18:35WARNINGUser loged out:user456
+25-04-03 16:18:37INFOFile uploaded:report.pdf
+25-04-03 16:18:39CRITICALHigh memory usage detected
+25-04-03 16:18:41INFOFile uploaded:report.pdf
+25-04-03 16:18:43ERRORDatabase connection failed:timeout
+25-04-03 16:18:45INFOServer crash detected! restarting...
+25-04-03 16:18:47INFOHigh memory usage detected
+25-04-03 16:18:49INFODatabase connection failed:timeout
+25-04-03 16:18:51CRITICALUser loged out:user456
+25-04-03 16:18:53WARNINGServer crash detected! restarting...
+25-04-03 16:18:55CRITICALUser loged out:user456
+25-04-03 16:18:57CRITICALUser logged in:user123
+25-04-03 16:18:59ERRORUser loged out:user456
+25-04-03 16:19:01WARNINGServer crash detected! restarting...
+25-04-03 16:19:03ERRORDatabase connection failed:timeout
+25-04-03 16:19:05WARNINGUser logged in:user123
+25-04-03 16:19:07CRITICALHigh memory usage detected
+25-04-03 16:19:09INFOServer crash detected! restarting...
+25-04-03 16:19:11WARNINGFile uploaded:report.pdf
+25-04-03 16:19:13CRITICALServer crash detected! restarting...
+25-04-03 16:19:15CRITICALHigh memory usage detected
+25-04-03 16:19:17INFODatabase connection failed:timeout
+25-04-03 16:19:19WARNINGUser logged in:user123
+25-04-03 16:19:21WARNINGServer crash detected! restarting...
+25-04-03 16:19:23ERRORServer crash detected! restarting...
+25-04-03 16:19:25WARNINGUser loged out:user456
+25-04-03 16:19:27WARNINGUser loged out:user456
+25-04-03 16:19:29WARNINGDatabase connection failed:timeout
+25-04-03 16:19:31ERRORUser loged out:user456
+25-04-03 16:19:33INFOFile uploaded:report.pdf
+25-04-03 16:19:35INFOUser logged in:user123
+25-04-03 16:19:37CRITICALUser logged in:user123
+25-04-03 16:19:39INFOServer crash detected! restarting...
+25-04-03 16:19:41ERRORDatabase connection failed:timeout
+25-04-03 16:19:43WARNINGHigh memory usage detected
+25-04-03 16:19:45WARNINGHigh memory usage detected
+25-04-03 16:19:47ERRORUser loged out:user456
+25-04-03 16:19:49WARNINGServer crash detected! restarting...
+25-04-03 16:19:51ERRORUser logged in:user123
+25-04-03 16:19:53INFODatabase connection failed:timeout
+25-04-03 16:19:55CRITICALUser loged out:user456
+25-04-03 16:19:57INFOUser loged out:user456
+25-04-03 16:19:59CRITICALUser loged out:user456
+25-04-03 16:20:01WARNINGUser loged out:user456
+25-04-03 16:20:03ERRORDatabase connection failed:timeout
+25-04-03 16:20:05WARNINGFile uploaded:report.pdf
+25-04-03 16:20:07ERRORUser logged in:user123
+25-04-03 16:20:09INFOServer crash detected! restarting...
+25-04-03 16:20:11CRITICALFile uploaded:report.pdf
+25-04-03 16:20:13CRITICALDatabase connection failed:timeout
+25-04-03 16:20:15WARNINGDatabase connection failed:timeout
+25-04-03 16:20:17ERRORUser logged in:user123
+25-04-03 16:20:19WARNINGServer crash detected! restarting...
+25-04-03 16:20:21WARNINGHigh memory usage detected
+25-04-03 16:20:23ERRORUser logged in:user123
+25-04-03 16:20:25ERRORFile uploaded:report.pdf
+25-04-03 16:20:27ERRORServer crash detected! restarting...
+25-04-03 16:20:29WARNINGDatabase connection failed:timeout
+25-04-03 16:20:31INFOUser loged out:user456
+25-04-03 16:20:33INFODatabase connection failed:timeout
+25-04-03 16:20:35WARNINGFile uploaded:report.pdf
+25-04-03 16:20:37INFOUser logged in:user123
+25-04-03 16:20:39ERRORDatabase connection failed:timeout
+25-04-03 16:20:41INFOFile uploaded:report.pdf
+25-04-03 16:20:43WARNINGDatabase connection failed:timeout
+25-04-03 16:20:45INFODatabase connection failed:timeout
+25-04-03 16:20:47WARNINGUser logged in:user123
+25-04-03 16:20:49WARNINGDatabase connection failed:timeout
+25-04-03 16:20:51ERRORHigh memory usage detected
+25-04-03 16:20:53INFOUser loged out:user456
+25-04-03 16:20:55ERRORUser logged in:user123
+25-04-03 16:20:57CRITICALServer crash detected! restarting...
+25-04-03 16:20:59CRITICALUser loged out:user456
+25-04-03 16:21:01INFOUser logged in:user123
+25-04-03 16:21:03INFOUser logged in:user123
+25-04-03 16:21:05ERRORUser loged out:user456
+25-04-03 16:21:07ERRORServer crash detected! restarting...
+25-04-03 16:21:09WARNINGServer crash detected! restarting...
+25-04-03 16:21:11INFOUser loged out:user456
+25-04-03 16:21:13WARNINGUser loged out:user456
+25-04-03 16:21:15CRITICALHigh memory usage detected
+25-04-03 16:21:17INFOServer crash detected! restarting...
+25-04-03 16:21:19CRITICALFile uploaded:report.pdf
+25-04-03 16:21:21WARNINGFile uploaded:report.pdf
+25-04-03 16:21:23INFOUser logged in:user123
+25-04-03 16:21:25CRITICALHigh memory usage detected
+25-04-03 16:21:27CRITICALFile uploaded:report.pdf
+25-04-03 16:21:29ERRORUser loged out:user456
+25-04-03 16:21:31CRITICALServer crash detected! restarting...
+25-04-03 16:21:33CRITICALHigh memory usage detected
+25-04-03 16:21:35WARNINGFile uploaded:report.pdf
+25-04-03 16:21:37ERRORServer crash detected! restarting...
+25-04-03 16:21:39INFOUser logged in:user123
+25-04-03 16:21:41INFOServer crash detected! restarting...
+25-04-03 16:21:43WARNINGServer crash detected! restarting...
+25-04-03 16:21:45ERRORServer crash detected! restarting...
+25-04-03 16:21:47INFOFile uploaded:report.pdf
+25-04-03 16:21:49WARNINGServer crash detected! restarting...
+25-04-03 16:21:51ERRORUser loged out:user456
+25-04-03 16:21:53WARNINGUser loged out:user456
+25-04-03 16:21:55INFOServer crash detected! restarting...
+25-04-03 16:21:57CRITICALHigh memory usage detected
+25-04-03 16:21:59WARNINGUser logged in:user123
+25-04-03 16:22:01WARNINGUser loged out:user456
+25-04-03 16:22:03ERRORDatabase connection failed:timeout
+25-04-03 16:22:05CRITICALServer crash detected! restarting...
+25-04-03 16:22:07WARNINGHigh memory usage detected
+25-04-03 16:22:09ERRORUser loged out:user456
+25-04-03 16:22:11INFODatabase connection failed:timeout
+25-04-03 16:22:13ERRORDatabase connection failed:timeout
+25-04-03 16:22:15WARNINGUser loged out:user456
+25-04-03 16:22:17ERRORUser logged in:user123
+25-04-03 16:22:19ERRORServer crash detected! restarting...
+25-04-03 16:22:21ERRORUser loged out:user456
+25-04-03 16:22:23INFOUser loged out:user456
+25-04-03 16:22:25INFOHigh memory usage detected
+25-04-03 16:22:27ERRORDatabase connection failed:timeout
+25-04-03 16:22:29CRITICALFile uploaded:report.pdf
+25-04-03 16:22:31INFODatabase connection failed:timeout
+25-04-03 16:22:33WARNINGFile uploaded:report.pdf
+25-04-03 16:22:35WARNINGUser logged in:user123
+25-04-03 16:22:37WARNINGHigh memory usage detected
+25-04-03 16:22:39ERRORUser loged out:user456
+25-04-03 16:22:41WARNINGUser loged out:user456
+25-04-03 16:22:43WARNINGUser loged out:user456
+25-04-03 16:22:45CRITICALDatabase connection failed:timeout
+25-04-03 16:22:47INFOServer crash detected! restarting...
+25-04-03 16:22:49WARNINGFile uploaded:report.pdf
+25-04-03 16:22:51WARNINGServer crash detected! restarting...
+25-04-03 16:22:53CRITICALServer crash detected! restarting...
+25-04-03 16:22:55ERRORUser logged in:user123
+25-04-03 16:22:57CRITICALServer crash detected! restarting...
+25-04-03 16:22:59ERRORHigh memory usage detected
+25-04-03 16:23:01WARNINGFile uploaded:report.pdf
+25-04-03 16:23:03ERRORDatabase connection failed:timeout
+25-04-03 16:23:05INFOHigh memory usage detected
+25-04-03 16:23:07INFOUser loged out:user456
+25-04-03 16:23:09INFOServer crash detected! restarting...
+25-04-03 16:23:11WARNINGFile uploaded:report.pdf
+25-04-03 16:23:13ERRORFile uploaded:report.pdf
+25-04-03 16:23:15INFOServer crash detected! restarting...
+25-04-03 16:23:17INFODatabase connection failed:timeout
+25-04-03 16:23:19WARNINGServer crash detected! restarting...
+25-04-03 16:23:21CRITICALDatabase connection failed:timeout
+25-04-03 16:23:23WARNINGDatabase connection failed:timeout
+25-04-03 16:23:25WARNINGServer crash detected! restarting...
+25-04-03 16:23:27ERRORUser logged in:user123
+25-04-03 16:23:29ERRORUser loged out:user456
+25-04-03 16:23:31CRITICALDatabase connection failed:timeout
+25-04-03 16:23:33WARNINGHigh memory usage detected
+25-04-03 16:23:35CRITICALUser loged out:user456
+25-04-03 16:23:37WARNINGDatabase connection failed:timeout
+25-04-03 16:23:39CRITICALDatabase connection failed:timeout
+25-04-03 16:23:41CRITICALDatabase connection failed:timeout
+25-04-03 16:23:43WARNINGUser logged in:user123
+25-04-03 16:23:45INFOHigh memory usage detected
+25-04-03 16:23:47INFOHigh memory usage detected
+25-04-03 16:23:49ERRORFile uploaded:report.pdf
+25-04-03 16:23:51INFOFile uploaded:report.pdf
+25-04-03 16:23:53ERRORDatabase connection failed:timeout
+25-04-03 16:23:55INFOServer crash detected! restarting...
+25-04-03 16:23:57CRITICALUser logged in:user123
+25-04-03 16:23:59ERRORDatabase connection failed:timeout
+25-04-03 16:24:01WARNINGUser logged in:user123
+25-04-03 16:24:03ERRORHigh memory usage detected
+25-04-03 16:24:05ERRORUser loged out:user456
+25-04-03 16:24:07ERRORFile uploaded:report.pdf
+25-04-03 16:24:09WARNINGFile uploaded:report.pdf
